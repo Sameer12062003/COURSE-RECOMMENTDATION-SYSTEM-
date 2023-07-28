@@ -13,7 +13,7 @@ FEATURES:
 
 3.User feedback integration: The system allows users to provide feedback on recommended courses, further improving the accuracy of future recommendations.
 
-4.asy integration with Coursera API: The project provides an interface to interact with the Coursera API to access user data and course information.
+4.Easy integration with Coursera API: The project provides an interface to interact with the Coursera API to access user data and course information.
 
 WORKING:
 
